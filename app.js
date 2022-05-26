@@ -228,3 +228,11 @@
 // console.log(qual);
 
 // Question No 08;
+// var cities = [];
+// cities[0] = "Karachi";
+// cities[1] = "Lahore";
+// cities[2] = "Islamabad";
+// cities[3] = "Quetta";
+// cities[4] = "Peshawar";
+
+// console.log(cities)
