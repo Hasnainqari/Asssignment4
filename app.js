@@ -236,3 +236,20 @@
 // cities[4] = "Peshawar";
 
 // console.log(cities)
+
+// Question No 09;
+
+// var cat = ["This","is","my", "Cat"];
+// console.log(cat.join(" "))
+
+// Question No 10;
+// var elec = [];
+// elec[0] = "Keyboard";
+// elec[1] = "Mouse";
+// elec[2] = "Printer";
+// elec[3] = "Monitor";
+// console.log(elec)
+
+// Question No 11;
+// var elect = ["Keyboard","Mouse","Printer","Monitor"];
+// console.log(elect.reverse())
